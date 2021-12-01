@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "column",
+    "name": "IsDesktop",
+    "description": "Desktop (true) or mobile (false)",
+    "author": "Manu.n",
+    "params": [
+    ],
+    "result": {
+      "type": "boolean"
+    }
+  }
+]
