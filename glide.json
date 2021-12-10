@@ -1,13 +1,13 @@
 [
   {
     "kind": "column",
-    "name": "IsDesktop",
-    "description": "Desktop (true) or mobile (false)",
-    "author": "Manu.n",
+    "name": "Device width",
+    "description": "Get user's device width for CSS media queries purposes",
+    "author": "Thinh Dinh <thinh@lowcode.agency>",
     "params": [
     ],
     "result": {
-      "type": "boolean"
+      "type": "number"
     }
   }
 ]
